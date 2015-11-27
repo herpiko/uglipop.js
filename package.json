@@ -1,0 +1,19 @@
+{
+  "name": "uglipop",
+  "version": "1.0.0",
+  "description": "A Lightweight Non-fancy Modal/Lightbox",
+  "main": "uglipop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herpiko/uglipop.js.git"
+  },
+  "author": "https://github.com/flouthoc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herpiko/uglipop.js/issues"
+  },
+  "homepage": "https://github.com/herpiko/uglipop.js#readme"
+}
